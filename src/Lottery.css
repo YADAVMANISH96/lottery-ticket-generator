@@ -1,0 +1,15 @@
+.ticket {
+    border:  1px solid;
+    border-radius: 14px;
+    margin-left: 10px;
+    text-align: center;
+}
+button{
+    /* margin-left: 90px; */
+    margin-top: 15px;
+    border-radius: 20px;
+}
+
+h3{
+    margin-left: 20px;
+}
